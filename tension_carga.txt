@@ -1,4 +1,4 @@
-tau,errortau,resistencia,errorres
+tau,error tau,resistencia,error resistencia
 0.00032,0.000001,210,2.54
 0.00131,0.00003,1000,12
 0.00182,0.00002,1500,18
